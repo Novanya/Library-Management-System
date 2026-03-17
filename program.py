@@ -170,7 +170,6 @@ def update_book():
                 else:
                     print("No books found.")
 
-
     except FileNotFoundError:
         print("book.csv not found. Creating file...")
         create_book_file()

@@ -8,7 +8,6 @@ def create_book_file():
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
-
 def create_student_file():
     with open("student.csv", "w", newline="") as f:
         fieldnames = ['student_id', 'name', 'age', 'badge',

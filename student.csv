@@ -1,0 +1,6 @@
+student_id,name,age,badge,program,department,email,phone,address,number_of_books_issued,issued_books
+20250001,Alice,18,2025,Computer Science,Computing,alice@gmail.com,0771234568,alice road/aberdeen,1,Data Structures
+20250002,Bob,19,2024,Software Engineering,Computing,bob@gmail.com,0712345678,"bob lane, new york",0,
+20250003,Charlie,22,2026,AI and Data Science,Computing,charlie@gmail.com,0781234569,"charlie road, galle",1,Data Structures
+20250004,Diana,18,2025,AI and Data Science,Computing,diana@gmail.com,0912345678,"diana lane, UK",0,
+20250005,Ethan,20,2024,Computer Science,Computing,ethan@gmail.com,0712345678,"ethan road, los angeles",0,

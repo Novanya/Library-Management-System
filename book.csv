@@ -1,0 +1,7 @@
+book_id,title,isbn,copies,availability,price
+B001,Python Basics,9780135166307,2,available,2050.0
+B002,Java Fundamentals,9780134694726,1,available,0.0
+B003,Data Structures,9780262033848,0,not available,4000.0
+B004,Web Development,9781492053514,2,available,3580.0
+B005,Algorithms,9780131103627,2,available,3200.0
+B006,The 48 Laws of Power,9781101042458,2,available,8000.0

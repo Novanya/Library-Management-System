@@ -17,15 +17,14 @@ def create_student_file():
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
-
 def create_transaction_file():
     with open("transactions.csv", "w", newline="") as f:
         fieldnames = ['date', 'book_id', 'student_id', 'type']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
-def main_program():
 
+def main_program():
     while True:
         print("Welcome to the Library Management System. Please select an option to continue.")
         print("""

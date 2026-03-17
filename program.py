@@ -259,7 +259,6 @@ def add_student():
         'address': address,
         'number_of_books_issued': number_of_books_issued,
         "issued_books":",".join(issued_books)
-
     }
 
     with open("student.csv", "a", newline="") as file:
